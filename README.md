@@ -52,3 +52,7 @@ Bu proje ile;
 - Basit bir çizim uygulamasının çalışma mantığı
 
 konularında pratik yapılmıştır.
+
+## 📷 Uygulama Görüntüsü
+
+![Paint Uygulaması](Screenshots/paint-uygulama.png)
